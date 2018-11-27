@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="366009ed-bf41-4132-9042-73f3d8c9de38" name="Default Changelist" comment="" />
+    <list default="true" id="366009ed-bf41-4132-9042-73f3d8c9de38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project3/StreetMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project3/StreetMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project3/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreetMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StreetMap.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,24 +19,24 @@
     <session id="817458225">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="31" />
+          <entry key="java" value="32" />
           <entry key="properties" value="4" />
           <entry key="txt" value="30" />
           <entry key="vmoptions" value="3" />
@@ -39,7 +45,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="32" />
           <entry key="PLAIN_TEXT" value="33" />
           <entry key="Properties" value="4" />
         </counts>
@@ -47,14 +53,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="7453" />
+          <entry key="java" value="7710" />
           <entry key="properties" value="5" />
           <entry key="vmoptions" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7453" />
+          <entry key="JAVA" value="7710" />
           <entry key="PLAIN_TEXT" value="39" />
           <entry key="Properties" value="5" />
         </counts>
@@ -62,7 +68,20 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StreetMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,6 +101,9 @@
       <find>i0</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -90,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/Location.java" />
         <option value="$PROJECT_DIR$/src/Heap2.java" />
         <option value="$PROJECT_DIR$/src/Heap1.java" />
-        <option value="$PROJECT_DIR$/src/StreetMap.java" />
         <option value="$PROJECT_DIR$/src/Intersection.java" />
         <option value="$PROJECT_DIR$/src/Road.java" />
         <option value="$PROJECT_DIR$/src/RoundedBorder.java" />
@@ -98,20 +119,22 @@
         <option value="$PROJECT_DIR$/src/Graph.java" />
         <option value="$PROJECT_DIR$/src/GUI.java" />
         <option value="$PROJECT_DIR$/src/Heap.java" />
+        <option value="$PROJECT_DIR$/src/StreetMap.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="330" />
-    <option name="y" value="83" />
+    <option name="y" value="82" />
     <option name="width" value="1315" />
-    <option name="height" value="834" />
+    <option name="height" value="835" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,7 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -156,7 +178,7 @@
     <configuration name="StreetMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StreetMap" />
       <module name="Project3" />
-      <option name="PROGRAM_PARAMETERS" value="p4dataset\monroe.txt --show --direction i0 i20000" />
+      <option name="PROGRAM_PARAMETERS" value="p4dataset\monroe.txt --show --directions i0 i20000" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -193,9 +215,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="264" y="67" width="1052" height="667" extended-state="0" />
+    <frame x="264" y="66" width="1052" height="668" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30040324" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30645162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -204,7 +226,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2790262" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27850467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39942113" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,17 +384,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StreetMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p4dataset/monroe.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="75115" column="10" selection-start-line="75115" selection-start-column="8" selection-end-line="75115" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StreetMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
